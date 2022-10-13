@@ -1,10 +1,6 @@
 NewZzz-App-Releases
 --------------------------
 
-
-Introduction
--------------------------
-
 Read the newest news about business, sports, Bollywood, and technology in India and around the world with NewZzz app in less than 60 words.
 
 
